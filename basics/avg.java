@@ -13,8 +13,11 @@ public class avg {
         int b=20;
          int c=33;
          int sum=a+b+c;
+         int sum1=n1+n2+n3;
          double avg=sum/3.0;
+         double avge=sum1/3.0;
          System.out.println("avg :"+avg);
+         System.out.println("avge :"+avge);
     }
     
 }
